@@ -1,4 +1,4 @@
-[README.md.md](https://github.com/user-attachments/files/32635875/README.md.md)
+
 # 白云记账
 
 一款开源免费、纯本地、注重隐私的个人记账 App（安卓）。数据完全保存在本机，不上传任何云端。
