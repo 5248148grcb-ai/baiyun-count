@@ -2,7 +2,8 @@
 # 白云记账
 
 一款开源免费、纯本地、注重隐私的个人记账 App（安卓）。数据完全保存在本机，不上传任何云端。
-<img width="500" height="460" alt="白云记账图标" src="https://github.com/user-attachments/assets/6ead2182-b14f-46a5-b92b-de1104f03095" />
+<img width="500" height="460" alt="白云记账图标" src="https://github.com/user-attachments/assets/d646e20d-6f14-46db-bd8a-e61d035fdb0f" />
+
 
 ## 为什么选择白云记账
 
