@@ -25,7 +25,7 @@
   - 后台保活引导
 - 我的：记账提醒、应用锁（PIN 码）、头像更换、自定义应用名、外观设置
 - 数据：全本地存储，导入导出互通
-
+- 该软件并没有接入ai，可能会存在不准的情况。
 ## 下载安装
 
 - [GitHub Release](https://github.com/5248148grcb-ai/baiyun-count/releases) 下载最新 APK
